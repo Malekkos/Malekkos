@@ -10,6 +10,9 @@ let How I started out = {
 let What I'm learning at the moment = {
   Data_Analytics: `${https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=2&t=4560s}`
     ~ This is mostly for SQL, Python, and Pandas, with the intention of solidifying my database knowledge
+
+  Language: `${https://www.youtube.com/watch?v=j-_s8f5K30I&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=5&t=1244s}`
+    ~ I think its a good idea to get the basics down with Learning C
 }
 
 let What I'm currently working on = {
