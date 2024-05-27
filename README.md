@@ -22,7 +22,7 @@ let whatImCurrentlyWorkingOn = {<br />
 <br />
 <h4>Looking to get in touch?</h4>
 <address style="text-decoration:none">
-  &nbsp;&nbsp;&nbsp;<a href="mailto:christiananderson7@tutamail.com" >📨📭  ~  christiananderson7@tutamail.com</a>
+  &nbsp;&nbsp;&nbsp;📨📭  ~  <a href="mailto:christiananderson4002981@gmail.com" >christiananderson4002981@gmail.com</a>
 </address>
 
 
