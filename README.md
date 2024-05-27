@@ -8,15 +8,19 @@ let <strong>howIStartedOut</strong> = {<br />
 }
 
 let whatImLearningAtTheMoment = {<br />
-  &nbsp;&nbsp;&nbsp;dataAnalytics: `${https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=2&t=4560s}`<br />
+  &nbsp;&nbsp;&nbsp;dataAnalytics: <a href="https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=2&t=4560s" >`to the video!`</a><br />
     ~ This is mostly for SQL, Python, and Pandas, with the intention of solidifying my database knowledge
 
-  &nbsp;&nbsp;&nbsp;language: `${https://www.youtube.com/watch?v=j-_s8f5K30I&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=5&t=1244s}`<br />
+  &nbsp;&nbsp;&nbsp;language: <a href="https://www.youtube.com/watch?v=j-_s8f5K30I&list=PLFKgDpcx51GVhZ3zBB7EGKxyNrvEhyCqs&index=5&t=1244s" >`to the video!`</a><br />
     ~ I think its a good idea to get the basics down with Learning C<br />
 }
 
 let whatImCurrentlyWorkingOn = {<br />
-  &nbsp;&nbsp;&nbsp;Thinking up a project 🧐<br />
+  &nbsp;&nbsp;&nbsp;idea: Working on a demo project based around a lock manufacturer! :lock::lock: <br />
+  &nbsp;&nbsp;&nbsp;Whole idea here was to make a site that looked like a lock selling website, and then have those little turnstile locks you would see displaying the items ⚙️<br />
+  &nbsp;&nbsp;&nbsp;This would also give me a chance to work majorly with A. SASS, a kind of tool that works in tandem with CSS. And B. Bootstrap, specifically using their <br />
+  &nbsp;&nbsp;&nbsp;Carousel preset buttons to get used to that sort of thing. <br />
+  &nbsp;&nbsp;&nbsp;Also, I took this opportunity to use a sort of new hosting thing, Vite, and get used to that. Getting a lot of learning done! :innocent: <br />
 }
 <br />
 <br />
