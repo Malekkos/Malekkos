@@ -18,8 +18,7 @@ let whatImLearningAtTheMoment = {<br />
 let whatImCurrentlyWorkingOn = {<br />
   &nbsp;&nbsp;&nbsp;idea: Working on a demo project based around a lock manufacturer! :lock::lock: <br />
   &nbsp;&nbsp;&nbsp;Whole idea here was to make a site that looked like a lock selling website, and then have those little turnstile locks you would see displaying the items ⚙️<br />
-  &nbsp;&nbsp;&nbsp;This would also give me a chance to work majorly with A. SASS, a kind of tool that works in tandem with CSS. And B. Bootstrap, specifically using their <br />
-  &nbsp;&nbsp;&nbsp;Carousel preset buttons to get used to that sort of thing. <br />
+  &nbsp;&nbsp;&nbsp;This would also give me a chance to work majorly with A. SASS, a kind of tool that works in tandem with CSS. And B. Bootstrap, specifically using their Carousel preset buttons to get used to that sort of thing. <br />
   &nbsp;&nbsp;&nbsp;Also, I took this opportunity to use a sort of new hosting thing, Vite, and get used to that. Getting a lot of learning done! :innocent: <br />
 }
 <br />
